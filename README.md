@@ -2,6 +2,6 @@
 
 some more scss techniques use in here. 
 
-map
-variable
+map/
+variable/
 nesting
